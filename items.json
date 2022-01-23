@@ -1,0 +1,93 @@
+{
+    "items": [{
+        "name": "Cần Câu Thủ Công",
+        "price": 500,
+        "time": 120,
+        "duribility": 10
+    },
+     {
+        "name": "Cần Câu E N V",
+        "price": 100,
+        "time": 0,
+        "duribility": 10
+    },
+      {
+        "name": "Cần Câu",
+        "price": 1000,
+        "time": 60,
+        "duribility": 20
+    },
+      {
+        "name": "Cần Câu Nghiệp Dư",
+        "price": 2000,
+        "time": 40,
+        "duribility": 40
+    },
+      {
+        "name": "Cần Câu Nâng Cấp",
+        "price": 3000,
+        "time": 35,
+        "duribility": 50
+    },
+      {
+        "name": "Cần Câu Vip",
+        "price": 4000,
+        "time": 20,
+        "duribility": 60
+    },
+      {
+        "name": "Cần Câu Master",
+        "price": 5000,
+        "time": 10,
+        "duribility": 70
+    },
+    {
+        "name": "Cần Câu Chuyên Nghiệp",
+        "price": 6000,
+        "time": 6,
+        "duribility": 20
+    },
+    {
+        "name": "Cần Câu Thành Quả",
+        "price": 7000,
+        "time": 3,
+        "duribility": 1100
+    },
+      {
+        "name": "Cần Câu MAX",
+        "price": 8000,
+        "time": 1,
+        "duribility": 2000
+    },
+      {
+        "name": "Cần Câu GOD",
+        "price": 9000,
+        "time": 0,
+        "duribility": 99999
+    },  
+      {
+        "name": "Cần Câu CMAX",
+        "price": 100000000000303030,
+        "time": 0,
+        "duribility": 1000000000000000000
+    },     
+      {
+        "name": "Cần Câu Staff",
+        "price": 10000,
+        "time": 0,
+        "duribility": 999999
+    },
+      {
+        "name": "Cần Câu AD",
+        "price": 100000.00,
+        "time": 0,
+        "duribility": 99999
+    },
+    {
+        "name": "Cần Câu Event",
+        "price": 1000000000,
+        "time": 0,
+        "duribility": 100
+    }
+    ]
+}
